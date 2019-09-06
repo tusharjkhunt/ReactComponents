@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactComponents/static/css/main.ba49ec77.chunk.css",
+    "main.js": "/ReactComponents/static/js/main.d623fab7.chunk.js",
+    "main.js.map": "/ReactComponents/static/js/main.d623fab7.chunk.js.map",
+    "runtime~main.js": "/ReactComponents/static/js/runtime~main.5ae15323.js",
+    "runtime~main.js.map": "/ReactComponents/static/js/runtime~main.5ae15323.js.map",
+    "static/css/2.f65acde2.chunk.css": "/ReactComponents/static/css/2.f65acde2.chunk.css",
+    "static/js/2.2ed53fcd.chunk.js": "/ReactComponents/static/js/2.2ed53fcd.chunk.js",
+    "static/js/2.2ed53fcd.chunk.js.map": "/ReactComponents/static/js/2.2ed53fcd.chunk.js.map",
+    "index.html": "/ReactComponents/index.html",
+    "precache-manifest.1f789c0edecb68c86026efa870de3724.js": "/ReactComponents/precache-manifest.1f789c0edecb68c86026efa870de3724.js",
+    "service-worker.js": "/ReactComponents/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/ReactComponents/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.ba49ec77.chunk.css.map": "/ReactComponents/static/css/main.ba49ec77.chunk.css.map"
+  }
+}
