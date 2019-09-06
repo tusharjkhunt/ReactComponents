@@ -45,5 +45,6 @@
   "description": "<<<<<<< HEAD\r # ReactComponents\r =======\r This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "bugs": {
     "url": "https://github.com/tusharjkhunt/ReactComponents/issues"
-  }
+  },
+  "keywords": []
 }
